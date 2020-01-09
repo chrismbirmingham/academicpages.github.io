@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Maja Mataric's [Interaction Lab](http://robotics.usc.edu/interaction/) at the University of Southern California. I am interested in exploring the ways we can use robots to improve the lives of everyone, but particularly those living with a disability. I currently focus on understanding multi-party interaction between groups of people and a robot.  
+I am a PhD student in Maja Mataric's [Interaction Lab](http://robotics.usc.edu/interaction/) at the University of Southern California. I am interested in exploring the ways we can use robots to improve the lives of everyone, but particularly those living with a disability. I currently focus on understanding multi-party interaction between groups of people and a robot. You can read more about this work [here](http://robotics.usc.edu/interaction/projects/desc2.php?name=multiparty_support).
 
 Current Work
 ======
