@@ -24,4 +24,4 @@ I am also developing a platform agnostic, ROS-based framework for composing and 
 
 Personal Info
 ======
-I hail from the Pacific Northwest. Like a good Washingtonian I love to spend my spare time hiking and rock climbing. I graduated from Gonzaga University with a degree in Electrical Engineering and from the University of Bristol with a master's in research in Robotics and Autonomous Systems. I love to travel and have been fortunate that work and education have allowed me to live across the US and Europe. If you want to connect please don't hesitate to reach out!
+I hail from the Pacific Northwest. Like a good Washingtonian I love to spend my spare time hiking and rock climbing. I graduated from Gonzaga University with a degree in Electrical Engineering. I recieved a master's in research in Robotics and Autonomous Systems from the University of Bristol while on a Marshall Scholarship. I love to travel and have been fortunate that work and education have allowed me to live across the US and Europe. If you want to connect please don't hesitate to reach out!
