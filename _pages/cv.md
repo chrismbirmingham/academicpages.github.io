@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Please download a copy of my CV [__here__.](http://chrismbirmingham.github.io/academics/files/Chris Birmingham CV Current.pdf)
+Please find a copy of my CV [__here__.](http://chrismbirmingham.github.io/academics/files/Chris Birmingham CV Current.pdf)
